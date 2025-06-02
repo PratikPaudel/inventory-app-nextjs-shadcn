@@ -1,0 +1,33 @@
+# Exclude the dockerignore file itself (if desired)
+.dockerignore
+
+# Node modules and logs
+node_modules
+npm-debug.log
+
+# Documentation and build output
+README.md
+.next
+dist
+
+# Git repository files
+.git
+
+# Environment and config files
+.env
+.env.local
+.env.*
+
+# Editor and IDE directories
+.vscode
+.idea
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Coverage, logs, and cache directories
+coverage
+logs
+.tmp
+.cache
