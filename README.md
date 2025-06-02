@@ -10,6 +10,9 @@ This repository contains the open-sourced **frontend** portion of the  Inventory
 
 ---
 
+## 🚀 Live Demo
+Try the live demo: [https://inventory-app-nextjs-shadcn.vercel.app](https://inventory-app-nextjs-shadcn.vercel.app)
+
 ## Original Project Overview & Demo
 
 NWCS Inventory was a modern, web-based inventory management system developed to replace an outdated Access database at Northwestern College. The goal was to create a streamlined, efficient system empowering staff to easily track and manage computer equipment across campus. It aimed to provide multi-user access, data visualizations, and user-friendly interfaces.
